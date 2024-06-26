@@ -15,3 +15,7 @@ Use this awesome feature option
 :::danger[Take care]
 This action is dangerous
 :::
+
+:::note[Note]
+This actions is note
+:::
